@@ -1,5 +1,7 @@
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=0&textBg=false&theme=cobalt&text=Hi%20👋%20I'm%20Tom" />
+  <a href="https://github.com/Tomwdev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tom" alt="Hi I'm Tom" />
+  </a>
 </div>
 
 <h3 align="center">Full Stack Developer from Brisbane, Australia 🇦🇺</h3>
@@ -20,13 +22,11 @@
 
 | **Languages** | **Frontend** | **Backend & DB** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=js,ts,python,cs,bash" width="200" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="200" /> | <img src="https://skillicons.dev/icons?i=nodejs,mongo" width="90" /> | <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,raspberrypi" width="200" /> |
+| <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=js,ts,python,cs,bash" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=nodejs,mongo" width="90" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,raspberrypi" width="200" /></a> |
 
 </div>
 
 ---
-
-
 
 <div align="center">
   <picture>
@@ -35,8 +35,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tomwdev/tomwdev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />
-</div>
-
