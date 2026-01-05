@@ -26,16 +26,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/tomwdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomwdev&show_icons=true&theme=cobalt&hide_border=true" alt="Tom's GitHub Stats" />
-  </a>
-  <a href="https://github.com/tomwdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomwdev&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 
-<br/>
 
 <div align="center">
   <picture>
