@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Tomwdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tomwdev" height="30" width="40" /></a>
+<a href="https://github.com/Tomwdev" target="blank"><img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="Tomwdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
