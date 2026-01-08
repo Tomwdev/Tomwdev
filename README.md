@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Full Stack Developer from Brisbane, Australia 🇦🇺</h3>
+<h3 align="center">Passionate Developer from Brisbane, Australia 🇦🇺</h3>
 
 <div align="center">
   
