@@ -25,13 +25,3 @@
 | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=js,ts,python,cs,bash" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=nodejs,mongo" width="90" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,raspberrypi" width="200" /></a> |
 
 </div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomwdev/tomwdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomwdev/tomwdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tomwdev/tomwdev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
