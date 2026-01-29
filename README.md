@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  I’m currently working on **PHP and Laravel projects**
+  I'm currently working on **PHP and Laravel projects**
   
-  I’m currently learning **Advanced Docker & Linux Systems**
+  I'm currently learning **Advanced Docker & Linux Systems**
 
 </div>
 
@@ -22,6 +22,6 @@
 
 | **Languages** | **Frontend** | **Backend & DB** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
-| <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=js,ts,python,cs,bash" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=nodejs,mongo" width="90" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,raspberrypi" width="200" /></a> |
+| <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=js,ts,python,php,cs,bash" width="240" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="200" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=nodejs,laravel,mongo" width="120" /></a> | <a href="https://github.com/Tomwdev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,raspberrypi" width="200" /></a> |
 
 </div>
