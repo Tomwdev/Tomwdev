@@ -4,19 +4,19 @@
   </a>
 </div>
 
-<h3 align="center">Passionate Developer from Brisbane, Australia 🇦🇺</h3>
+<h3 align="center">Passionate Developer from Brisbane, Australia</h3>
 
 <div align="center">
   
-  🔭 I’m currently working on **React & C# Projects**
+  I’m currently working on **PHP and Laravel projects**
   
-  🌱 I’m currently learning **Advanced Docker & Linux Systems**
+  I’m currently learning **Advanced Docker & Linux Systems**
 
 </div>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <div align="center">
 
